@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Resources
 1. [React Lifecycle Methods Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 1. [Pure React - GitHub](https://github.com/actionanand/pure-react)
+1. [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
+1. [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)
