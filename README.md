@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. [Pure React - GitHub](https://github.com/actionanand/pure-react)
 1. [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
 1. [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)
+1. [Profiler](https://reactjs.org/docs/profiler.html#usage "Profiler Official doc")
