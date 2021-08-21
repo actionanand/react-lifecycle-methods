@@ -77,3 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
 1. [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)
 1. [Profiler](https://reactjs.org/docs/profiler.html#usage "Profiler Official doc")
+1. [React Performance Cheat Sheet](https://houssein.me/progressive-react "React Performance Cheat Sheet")
